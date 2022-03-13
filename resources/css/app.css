@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.st0{
+    fill:url(#SVGID_1_);
+  }
+  .st1{
+    fill:url(#SVGID_2_);stroke:currentColor;stroke-width:17.7685;stroke-miterlimit:10;
+  }
